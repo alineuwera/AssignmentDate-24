@@ -6,4 +6,4 @@ const diff = a-b;
 const quo = a/b;
 console.log(`the sum is equal ${sum}\nthe product is equal ${pro}\nthe difference is equal ${diff}\nthe quotient is equal ${quo}`);
 
-// hh
+// hhggg
